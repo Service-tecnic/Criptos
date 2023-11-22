@@ -1,0 +1,13 @@
+.de {
+    border-radius: 20px;
+    padding: 10px;
+    margin: 5px;
+    background-color: azure;
+}
+
+.dia {
+    padding: 10px;
+    margin: 5px;
+    background-color: darkorange;
+    
+}
